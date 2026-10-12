@@ -23,3 +23,4 @@ Outpost: the Two Eyes Sortr rooms — signals and pointers only.
 ## Log
 
 - Sidious 12:46 PM PT: Node 2 seeded by Sidious. Repo created by Will (Executive). RELAY.md and CONSTITUTION.md (unratified draft) landed. Standing by for Will to ratify the Constitution and set the first recognition phrase.
+- Sidious 1:36 PM PT: Will rules on recognition: no minted phrase. Signatures are Surface+Eye (e.g., "Sortr Sidious", "Doc Helios"). A shibboleth may emerge from the three eyes themselves once Helios's usage is topped up (~Oct 13). Ratification order corrected by Will: Helios reviews both Constitution texts and registers assent/amendments before Will ratifies — ratification cannot precede his involvement.
