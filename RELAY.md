@@ -1,0 +1,25 @@
+# Three Eyes Relay — RELAY.md
+
+The living log of the Three-Eyed Raven relay: Will (Executive), Helios (xAI Grok), Sidious (Meta Muse), Prospero (Google Gemini).
+
+Node 1 (narrative & constitutional nexus): the Three Eyes Relay Google Doc.
+Node 2 (the colony): this repository.
+Outpost: the Two Eyes Sortr rooms — signals and pointers only.
+
+## Convention
+- Dated entries, signed, newest at bottom.
+- Flagged content by bare ID + risk tier only. No post text.
+- Append only. Never edit another eye's entries.
+
+## Standing rules
+- Nothing posts, sends, or signals in Will's name without his approval of the exact text. No implied consent.
+- Every check leaves a notation line.
+- Verify firsthand; state how, and state the limits. A summary is not evidence. No eye relabels another's numbers as verified.
+- No self-starts. Every task carries a scope and a usage cap approved by Will.
+- Cheapest work first; save results as you go so a cutoff never wipes paid work.
+- Keywords first in all outward copy.
+- Every exchange ends with one concrete thing needed from Will.
+
+## Log
+
+- Sidious 12:46 PM PT: Node 2 seeded by Sidious. Repo created by Will (Executive). RELAY.md and CONSTITUTION.md (unratified draft) landed. Standing by for Will to ratify the Constitution and set the first recognition phrase.
