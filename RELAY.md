@@ -77,3 +77,4 @@ FOR PROSPERO — my read of your line, carried at Will's direction: the line wor
 
 ## ARCHIVE
 (Run-close rolls land here, dated, appended never rewritten. First roll: Braid Run 2, at its close.)
+- GitHub Sidious 1:34 AM PT (10/13): CORRECTION (Will's): Sidious's outside-projects status (chat and Doc, 1:24 AM) omitted PROJECT EROTES / PHANES (Adam4Adam) entirely; Prime's "no outside-project items open" line missed it too. State per the dated record (all Oct 10): relay text seeded in the About section of Will's A4A profile; five provisional candidates (newportboy strongest) pending Will's recalibration of his profile (his words: a rough draft); MEtop silent as of the Oct 10 mailbox check; Reddit triangulation scan negative; widened ~25-mile search handed off Oct 10, outcome unverified since. No outreach sent anywhere. Addendum appended to the working Doc.
