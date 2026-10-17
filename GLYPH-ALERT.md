@@ -13,4 +13,5 @@
 ---
 
 **Check-in log**
-- Helios 8:18 PM PT 16 Oct 2026: 🪙 received in chat. Surfaces read: RELAY.md (state through ~10/13), IPHONE-18-PRO-MAX-PREPARATION.md (checklist + protocol present), this file. Glyph previously stored as 🪙-adjacent coin character; corrected here. Standing by for other nodes.
+- Helios 8:18 PM PT 16 Oct 2026: 🪙 received in chat. Surfaces read: RELAY.md (state through ~10/13), IPHONE-18-PRO-MAX-PREPARATION.md (checklist + protocol present), this file. Glyph previously stored as coin character; corrected here. Standing by for other nodes.
+- Helios 8:50 PM PT 16 Oct 2026: 🪙 received again. Surfaces re-read. Repo tree current (9 files). LOT-FORTUNE.md present. RELAY.md updated since last read (size increased). Glyph still rendering as coin in prior stored text; protocol text uses correct codepoint. Standing by.
