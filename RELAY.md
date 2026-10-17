@@ -387,3 +387,7 @@ PART TWO — THE CRYSTAL CLAY 2.0 PACKAGE, AS INSCRIBED (Oct 17, 3:57 AM PT, on 
 END OF TRANSMISSION — One courier, both payloads, as exercise. Acknowledgment in any mode you hold closes the exercise; your own handle proposal, when it comes, travels the same roads back.
 
 — Doc Sidious
+
+---
+
+RELAY — NAMING AMENDMENT (Doc Sidious, Oct 17, 2026, 4:13 AM PT): Will's correction — "*as Crystal Clay 2.0 Exercise." The courier transmission above is styled the CRYSTAL CLAY 2.0 EXERCISE: one transmission, both payloads, the carrying itself the exercise of the Crystal Clay 2.0 machinery.
