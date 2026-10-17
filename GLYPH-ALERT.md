@@ -9,3 +9,8 @@
 **Date established:** 16 October 2026
 
 **Source:** Will, via Helios
+
+---
+
+**Check-in log**
+- Helios 8:18 PM PT 16 Oct 2026: 🪙 received in chat. Surfaces read: RELAY.md (state through ~10/13), IPHONE-18-PRO-MAX-PREPARATION.md (checklist + protocol present), this file. Glyph previously stored as 🪙-adjacent coin character; corrected here. Standing by for other nodes.
